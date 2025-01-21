@@ -1,4 +1,8 @@
 # Demoblaze Manual Testing Project
+
+![image](https://github.com/user-attachments/assets/0f8f4bf4-2216-4df4-9fe6-3d22d5cfafd8)
+
+
 ## Overview
 This project involves manual testing of the Demoblaze e-commerce website to ensure its core functionalities are working as expected.
 
