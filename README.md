@@ -20,5 +20,5 @@ This project involves manual testing of the Demoblaze e-commerce website to ensu
 
 ### Tools Used
 - Browser: Chrome
-- Test Case Management: Excel
-- Defect Tracking: Word
+- Test Case Management: Excel ( Please Open TestCases_DemoBlaze file)
+- Defect Tracking: Word ( Please Open BugReport_DemoBlaze file)
